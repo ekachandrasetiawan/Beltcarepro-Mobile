@@ -1,0 +1,44 @@
+/* Empty. Add your own CSS if you like */
+
+/*CSS Framework 7*/
+.framework7 .page {
+	position:static !Important;
+}
+
+
+.framework7 .content-block-title {
+    color: #6d6d72;
+    font-size: 12px;
+    line-height: 1;
+    margin: 14px 6px 5px !Important;
+    overflow: hidden;
+    position: relative;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+/* CSS IONIC*/
+.framework7 .button{
+	min-height: 0px !Important;
+}
+.xe-widget.xe-counter, .xe-widget.xe-counter-block .xe-upper, .xe-widget.xe-progress-counter .xe-upper{
+    padding: 0px Important;
+}
+.xe-upper{
+    padding: 0px Important;
+}
+.row{
+    margin-top: 30px;
+}
+
+.list-block{
+    width: 100%;
+}
+.panel{
+    padding: 0px !Important;
+}
+
+.navbar{
+    min-height: 0px !Important;
+}
